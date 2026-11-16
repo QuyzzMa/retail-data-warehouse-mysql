@@ -1,0 +1,24 @@
+# Business Context
+
+## Retail Business Intelligence Analytics
+
+Một nền tảng thương mại điện tử đa ngành đang hoạt động trên phạm vi toàn quốc với hàng triệu giao dịch được thực hiện mỗi năm thông qua nhiều nhà bán hàng và hàng nghìn sản phẩm thuộc các danh mục như Electronics, Clothing, Home, Beauty và Sports. Doanh nghiệp không ngừng mở rộng quy mô kinh doanh nhằm đáp ứng nhu cầu mua sắm trực tuyến ngày càng tăng của khách hàng.
+
+Trong quá trình vận hành, mỗi giao dịch đều lưu trữ đầy đủ thông tin về sản phẩm, thương hiệu, giá bán, mức giảm giá, đánh giá của khách hàng, thời gian giao hàng, phương thức thanh toán, địa điểm mua hàng, hiệu suất của nhà bán hàng và trạng thái hoàn trả đơn hàng. Khối lượng dữ liệu ngày càng lớn tạo điều kiện thuận lợi cho việc phân tích hoạt động kinh doanh, đồng thời đặt ra yêu cầu xây dựng một hệ thống Business Intelligence giúp doanh nghiệp khai thác dữ liệu hiệu quả hơn.
+
+Hiện nay, doanh nghiệp vẫn chủ yếu sử dụng các báo cáo tổng hợp nên chưa thể theo dõi hiệu quả kinh doanh theo nhiều chiều dữ liệu như thời gian, danh mục sản phẩm, thương hiệu, khu vực, nhà bán hàng và hành vi mua sắm của khách hàng. Điều này khiến Ban lãnh đạo gặp khó khăn trong việc xác định nhóm sản phẩm tạo ra doanh thu cao nhất, đánh giá hiệu quả của các chương trình giảm giá, theo dõi chất lượng vận hành của nhà bán hàng cũng như nhận diện các yếu tố làm gia tăng tỷ lệ hoàn trả đơn hàng.
+
+Bên cạnh đó, doanh nghiệp thường xuyên triển khai các chương trình khuyến mãi nhằm thúc đẩy doanh số. Tuy nhiên, tác động của chính sách giảm giá đến doanh thu, mức độ hài lòng của khách hàng và tỷ lệ hoàn trả vẫn chưa được đánh giá một cách toàn diện. Đồng thời, thời gian giao hàng giữa các khu vực có sự khác biệt đáng kể và có thể ảnh hưởng trực tiếp đến trải nghiệm khách hàng cũng như hiệu quả kinh doanh của doanh nghiệp.
+
+Với vai trò là **Data Analyst**, tôi được giao nhiệm vụ xây dựng dự án **Retail Business Intelligence Analytics** nhằm phân tích dữ liệu giao dịch bằng SQL và trực quan hóa kết quả trên Power BI. Dự án được thiết kế để chuyển đổi dữ liệu giao dịch thành các chỉ số kinh doanh (KPIs), Dashboard trực quan và các insight có giá trị, giúp doanh nghiệp theo dõi hiệu quả hoạt động từ nhiều góc độ như doanh thu, sản phẩm, khách hàng, nhà bán hàng, logistics và tỷ lệ hoàn trả.
+
+Mục tiêu của dự án là hỗ trợ Ban lãnh đạo trả lời các câu hỏi kinh doanh quan trọng như:
+
+* Danh mục sản phẩm và thương hiệu nào tạo ra doanh thu cao nhất?
+* Chính sách giảm giá ảnh hưởng như thế nào đến doanh thu và tỷ lệ hoàn trả?
+* Thời gian giao hàng có tác động đến mức độ hài lòng và hành vi hoàn trả của khách hàng hay không?
+* Nhà bán hàng nào đang hoạt động hiệu quả nhất và nhà bán hàng nào cần được cải thiện?
+* Khu vực nào mang lại hiệu quả kinh doanh cao nhất?
+* Những yếu tố nào đang ảnh hưởng đến hiệu suất hoạt động của nền tảng và cần được ưu tiên tối ưu?
+
+Thông qua dự án này, doanh nghiệp có thể theo dõi hiệu quả kinh doanh một cách trực quan, nhanh chóng phát hiện các xu hướng quan trọng, đánh giá hiệu suất vận hành và đưa ra các quyết định chiến lược dựa trên dữ liệu nhằm tối ưu doanh thu, nâng cao trải nghiệm khách hàng và cải thiện hiệu quả hoạt động của toàn bộ hệ thống thương mại điện tử.
