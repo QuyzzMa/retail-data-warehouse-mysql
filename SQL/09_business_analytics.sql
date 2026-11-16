@@ -16,7 +16,6 @@ GROUP BY l.location
 ORDER BY tong_doanh_thu DESC;
 
 -- "Nhà bán hàng nào đang hoạt động hiệu quả nhất?"
--- (đang luyện tập cùng mentor -- điền tiếp theo khuôn mẫu trên)
 SELECT
     s.seller_id,
     SUM(f.final_price) AS tong_doanh_thu,
